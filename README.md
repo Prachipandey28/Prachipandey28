@@ -23,7 +23,7 @@
 🏆 Microsoft CodeForge 2025 Finalist (**Top 6 / 750+ Teams**)  
 💡 Passionate about **AI, ML, GenAI & Real-World Problem Solving**  
 🚀 Developing impactful AI healthcare & automation solutions  
-🌱 Currently learning **Full Stack Development + DevOps**  
+🌱 Currently learning **Full Stack Development**  
 ✨ Love hackathons, innovation & building futuristic projects
 
 ---
