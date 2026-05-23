@@ -2,7 +2,7 @@
                                              ✨ Hey there, I'm Prachi Pandey 
 
 <h3 align="center">
-🚀 AI & Data Science Student | 🤖 ML Explorer | 🏥 Building AI for Healthcare
+🚀 AI & Data Science Student | 🤖 ML Explorer
 </h3>
 
 <p align="center">
