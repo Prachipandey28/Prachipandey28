@@ -37,7 +37,6 @@
 | DSA in C++ | AI Resume Parser API |
 | Deep Learning | Student Performance Prediction |
 | Full Stack Dev | GenAI Applications |
-| DevOps Basics | Healthcare AI Solutions |
 
 </div>
 
@@ -91,7 +90,7 @@ Pandas & NumPy
 
 # 🚀 Featured Projects
 
-## 📊 Student Performance Prediction
+## Student Performance Prediction
 
 🔹 AI-powered academic performance analysis system  
 🔹 Built using Python, Streamlit, SQLite, Pandas & Gemini AI  
@@ -99,7 +98,7 @@ Pandas & NumPy
 
 ---
 
-## 🎨 Basic QR Generator
+## Basic QR Generator
 
 🔹 Cyberpunk-themed QR generator with live preview  
 🔹 Built using Python, Streamlit, QRCode & PIL  
@@ -107,7 +106,7 @@ Pandas & NumPy
 
 ---
 
-## 📄 AI Resume Parser API
+## AI Resume Parser API
 
 🔹 Intelligent REST API for extracting resume data  
 🔹 Built with FastAPI, Gemini 1.5 Flash & SQLAlchemy  
