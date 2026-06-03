@@ -127,13 +127,16 @@ Pandas & NumPy
 # 📊 GitHub Analytics
 
 <p align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=prachipandey28&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=prachipandey28&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=prachipandey28&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prachipandey28&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-<img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=prachipandey28&theme=tokyo-night&hide_border=true" />
+<img width="60%" src="https://streak-stats.demolab.com/?user=prachipandey28&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+<img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=prachipandey28&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
@@ -150,7 +153,7 @@ Pandas & NumPy
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINK">
+<a href="https://www.linkedin.com/in/prachi-pandey-0042a8328/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
