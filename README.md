@@ -68,7 +68,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Prachipandey28&theme=tokyonight&no-bg=true&margin-w=15&margin-h=15" alt="Trophies" />
+  <img src="https://github-profile-trophy-tawny.vercel.app/?username=Prachipandey28&theme=tokyonight&no-bg=true&margin-w=15&margin-h=15&v=1" alt="Trophies" />
 </p>
 
 ---
