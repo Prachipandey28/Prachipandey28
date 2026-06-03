@@ -127,16 +127,12 @@ Pandas & NumPy
 # 📊 GitHub Analytics
 
 <p align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=prachipandey28&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800&rank_icon=github" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prachipandey28&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Prachipandey28&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prachipandey28&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-<img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=prachipandey28&theme=tokyo-night&hide_border=true&area=true" />
-</p>
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=prachipandey28&theme=tokyonight&no-frame=true&row=1&column=6" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Prachipandey28&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=bf91f3&area=true&hide_border=true" />
 </p>
 
 ---
