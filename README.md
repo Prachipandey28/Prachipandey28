@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00F7FF,8A2BE2&height=180&section=header&text=Prachi%20Pandey&fontSize=45&animation=fadeIn&fontColor=ffffff&desc=%E2%9C%A8%20AI%20%26%20Data%20Science%20Student%20%7C%20%F0%9F%A4%96%20ML%20Explorer&descSize=18&descAlign=62" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=180&section=header&text=Prachi%20Pandey&fontSize=45&animation=fadeIn&fontColor=ffffff&desc=AI%20and%20Data%20Science%20Student%20%7C%20ML%20Explorer&descSize=18&descAlign=62&v=1" alt="Header Banner" />
 </p>
 
 <p align="center">
@@ -144,7 +144,7 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00F7FF,8A2BE2&height=100&section=footer" alt="Waving Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=100&section=footer&v=1" alt="Waving Footer" />
 </p>
 
 <h3 align="center">
