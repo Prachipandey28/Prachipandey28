@@ -71,28 +71,29 @@
 
 #### 🤖 Machine Learning Intern
 **SkillInfyTech IT Solutions Private Limited** | 📅 *May 2026 – Present*  
-- Gaining hands-on experience in Machine Learning concepts, data analysis, and model development.
-- Working on industry-oriented projects and strengthening problem-solving skills under direct mentorship.
+- Working on Machine Learning concepts, data analysis, model development, and industry-oriented projects.
+- Gaining practical experience through mentorship and hands-on training while strengthening problem-solving and analytical skills.
 
 ---
 
 #### 🌐 AI Web Development Intern
 **InAmigos Foundation (IAF)** | 📅 *May 2026 – Present*  
-- Building AI-powered web solutions, enhancing website functionalities, and designing frontend interfaces.
-- Collaborating in cross-functional teams to improve user experience and practical development skills.
+- Selected through Internshala for an AI Web Development Internship to work on AI-powered web solutions, frontend development, and website enhancements.
+- Collaborating with teams to improve user experience and strengthen practical skills in Artificial Intelligence and Web Development.
 
 ---
 
 #### 📢 Social Media Head
 **Arya Intelverse** | 📅 *August 2025 – Present*  
-- Managing and creating digital content to promote workshops, technical hackathons, and student initiatives.
-- Coordinating with team members to boost engagement and establish a strong online presence for the club.
+- Leading social media activities by creating and managing content to promote events, workshops, and student initiatives.
+- Coordinating with team members to increase engagement, strengthen the club's online presence, and support communication.
 
 ---
 
 #### ☁️ Salesforce Program Architect Intern
 **TechForce Academy Australia** | 📅 *June 2025 – August 2025*  
-- Studied Salesforce CRM architecture, cloud workflows, process automations, and enterprise application concepts.
+- Completed a structured internship focused on Salesforce architecture, CRM solutions, cloud technologies, workflow automation, and enterprise application development.
+- Gained hands-on experience with Salesforce tools and platform concepts while developing problem-solving, collaboration, and technical skills.
 
 ---
 
