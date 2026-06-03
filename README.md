@@ -178,10 +178,14 @@
 
 ---
 
-## 💬 Quote of the Day
+## 💬 Quote & Joke of the Day
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote of the Day" />
+</p>
+
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" />
 </p>
 
 ---
