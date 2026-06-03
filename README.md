@@ -19,7 +19,7 @@
 <table>
   <tr>
     <td valign="top" width="60%">
-      <p>🎓 B.Tech Student in <strong>Artificial Intelligence & Data Science</strong></p>
+      <p>🎓 B.Tech Student in <strong>Artificial Intelligence & Data Science</strong> at <strong>Arya College of Engineering & IT, Jaipur</strong></p>
       <p>🏆 Microsoft CodeForge 2025 Finalist (<strong>Top 6 / 750+ Teams</strong>)</p>
       <p>💡 Passionate about <strong>AI, ML, GenAI & Real-World Problem Solving</strong></p>
       <p>🚀 Developing impactful AI healthcare & automation solutions</p>
@@ -67,19 +67,65 @@
 
 ---
 
-## 💼 Experience & Achievements
+## 💼 Professional Experience
 
-### 🌍 Experience
-**Salesforce Programming Architect Intern**  
-📅 *June 2025 – August 2025* \| 💻 *TechForce Academy Australia*  
-- Deepened understanding of Salesforce architecture, cloud-based workflows, and development principles.
+#### 🤖 Machine Learning Intern
+**SkillInfyTech IT Solutions Private Limited** | 📅 *May 2026 – Present*  
+- Gaining hands-on experience in Machine Learning concepts, data analysis, and model development.
+- Working on industry-oriented projects and strengthening problem-solving skills under direct mentorship.
 
-### 🏆 Key Achievements
+---
+
+#### 🌐 AI Web Development Intern
+**InAmigos Foundation (IAF)** | 📅 *May 2026 – Present*  
+- Building AI-powered web solutions, enhancing website functionalities, and designing frontend interfaces.
+- Collaborating in cross-functional teams to improve user experience and practical development skills.
+
+---
+
+#### 📢 Social Media Head
+**Arya Intelverse** | 📅 *August 2025 – Present*  
+- Managing and creating digital content to promote workshops, technical hackathons, and student initiatives.
+- Coordinating with team members to boost engagement and establish a strong online presence for the club.
+
+---
+
+#### ☁️ Salesforce Program Architect Intern
+**TechForce Academy Australia** | 📅 *June 2025 – August 2025*  
+- Studied Salesforce CRM architecture, cloud workflows, process automations, and enterprise application concepts.
+
+---
+
+## 🎓 Education
+
+🏫 **Arya College of Engineering and IT**  
+*Bachelor of Technology (B.Tech) in Artificial Intelligence & Data Science* | 📅 **August 2023 – May 2027**  
+
+🏫 **Birla Shiksha Kendra School**  
+*Higher Secondary School (PCM)* | 📅 **March 2022 – February 2023**  
+
+🏫 **Sterling Academy School**  
+*Secondary School (RBSE)* | 📅 **March 2020 – May 2021**
+
+---
+
+## 🏆 Honors, Awards & Certifications
+
+### 🎖️ Honors & Awards
 - 🥇 **Microsoft CodeForge 2025 Finalist** (Top 6 / 750+ teams)
-- 🏅 **Arya Hackathon** – 4th Place (78 teams)
-- 🏅 **Consolation Prize** – JECRC Expo
-- 📚 **Machine Learning Specialization** – Coursera
-- 📚 **Building GenAI Applications with MongoDB**
+- 🎖️ **Certificate of Appreciation** — India Is Innovating 2K25
+- 🥈 **2nd Position** — Scintillations 2024 (Elements event)
+- 🥉 **3rd Position** — Victory-24 Cultural Fest (Don-De-Mode)
+- 🏅 **Arya Hackathon** — 4th Place (78 teams)
+- 🏆 **Consolation Prize** — National Project Expo / JECRC Expo
+
+### 📜 Certifications
+- 🧠 **Machine Learning Specialization** — Coursera
+- 🍃 **Building GenAI Applications with MongoDB**
+- 🤖 **AI for Beginners**
+- 💻 **Stacks Fullstack Bootcamp Graduate**
+- ☁️ **Salesforce AI Builders Day**
+- 🎨 **How to Create Presentations using Canva**
 
 ---
 
