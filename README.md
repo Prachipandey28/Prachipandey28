@@ -67,7 +67,7 @@
 
 ---
 
-## 💼 Professional Experience
+## 💼 Experience
 
 #### 🤖 Machine Learning Intern
 **SkillInfyTech IT Solutions Private Limited** | 📅 *May 2026 – Present*  
