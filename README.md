@@ -1,6 +1,8 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=180&section=header&text=Prachi%20Pandey&fontSize=45&animation=fadeIn&fontColor=ffffff&desc=AI%20and%20Data%20Science%20Student%20%7C%20ML%20Explorer&descSize=18&descAlign=62&v=1" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=180&section=header&text=Prachi%20Pandey&fontSize=45&animation=fadeIn&fontColor=ffffff&v=2" alt="Header Banner" />
 </p>
+
+<h3 align="center">🚀 AI & Data Science Student | 🤖 ML Explorer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Artificial+Intelligence+Student;Machine+Learning+Enthusiast;Hackathon+Finalist;Building+AI+Healthcare+Solutions;Future+AI+Engineer;Code+%E2%80%A2+Learn+%E2%80%A2+Build+%E2%80%A2+Repeat" alt="Typing SVG" />
