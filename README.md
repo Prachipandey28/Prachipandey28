@@ -121,6 +121,22 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prachipandey28&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=bf91f3&area=true&hide_border=true" width="100%" alt="Activity Graph" />
 </p>
 
+<h3 align="center">🐍 Contribution Snake</h3>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Prachipandey28/Prachipandey28/output/github-snake-dark.svg">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Prachipandey28/Prachipandey28/output/github-snake.svg" />
+  </picture>
+</p>
+
+---
+
+## 💬 Quote of the Day
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote of the Day" />
+</p>
+
 ---
 
 ## 🌐 Let's Connect
