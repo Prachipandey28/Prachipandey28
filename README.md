@@ -127,16 +127,16 @@ Pandas & NumPy
 # 📊 GitHub Analytics
 
 <p align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=prachipandey28&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prachipandey28&layout=compact&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=prachipandey28&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800&rank_icon=github" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prachipandey28&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 </p>
 
 <p align="center">
-<img width="60%" src="https://streak-stats.demolab.com/?user=prachipandey28&theme=tokyonight&hide_border=true" />
+<img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=prachipandey28&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
 <p align="center">
-<img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=prachipandey28&theme=tokyo-night&hide_border=true" />
+<img src="https://github-profile-trophy.vercel.app/?username=prachipandey28&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ---
