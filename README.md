@@ -7,10 +7,11 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Artificial+Intelligence+Student;Machine+Learning+Enthusiast;Hackathon+Finalist;Building+AI+Healthcare+Solutions;Future+AI+Engineer;Code+%E2%80%A2+Learn+%E2%80%A2+Build+%E2%80%A2+Repeat" alt="Typing SVG" />
 </p>
-
+<!-- 4 months done  -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=prachipandey28&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 </p>
+
 
 ---
 
