@@ -7,7 +7,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Artificial+Intelligence+%26+Data+Science;Computer+Vision+Specialist+(YOLOv8);Machine+Learning+%26+GenAI+Developer;Hack+4+Health+Winner+(%E2%82%B95%2C000+Prize);Microsoft+CodeForge+2025+Finalist;Code+%E2%80%A2+Learn+%E2%80%A2+Build+%E2%80%A2+Repeat" alt="Typing SVG" />
 </p>
-<!-- 4 months done  -->
+
 <p align="center">
   <a href="https://prachi-portfolio-seven.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Live_Portfolio-prachi--portfolio--seven.vercel.app-6c63ff?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Portfolio" />
@@ -17,7 +17,6 @@
     <img src="https://img.shields.io/badge/LeetCode-50_Days_Streak-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Badge" />
   </a>
 </p>
-
 
 ---
 
