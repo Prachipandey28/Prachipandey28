@@ -12,7 +12,9 @@
   <a href="https://prachi-portfolio-seven.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Live_Portfolio-prachi--portfolio--seven.vercel.app-6c63ff?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Portfolio" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=prachipandey28&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  <a href="https://github.com/Prachipandey28">
+    <img src="https://hits.sh/github.com/Prachipandey28.svg?style=for-the-badge&label=Profile%20Views&color=0e75b6&logo=github" alt="Profile Views" />
+  </a>
   <a href="https://leetcode.com/u/prachi1528/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-50_Days_Streak-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Badge" />
   </a>
@@ -218,7 +220,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prachipandey28&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=bf91f3&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+  <img src="https://raw.githubusercontent.com/Prachipandey28/Prachipandey28/output/activity-graph.svg" width="100%" alt="Activity Graph" />
 </p>
 
 <h3 align="center">🐍 Contribution Snake</h3>

@@ -1,4 +1,4 @@
-name: Generate Snake
+name: Generate Visualizations
 
 on:
   schedule:
@@ -28,6 +28,14 @@ jobs:
             dist/github-snake-dark.svg?palette=github-dark
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate activity graph
+        uses: maurodesouza/github-readme-activity-graph-action@v1
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          username: ${{ github.repository_owner }}
+          options: bg_color=1a1b27&color=70a5fd&line=70a5fd&point=bf91f3&area=true&hide_border=true
+          output_path: dist/activity-graph.svg
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
